@@ -1,0 +1,82 @@
+.full-background{
+	background:url("5.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+
+
+.top-h{
+	font-size:45px;
+	margin-left:440px;
+	color:orange;
+	text-shadow:1px 1px 1px black;
+	
+}
+.murgi img{width: 100%;
+    margin-top: -58px;
+	
+	
+          }
+.murgi{width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+  }
+  .button{text-decoration: none;
+    background-image: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;}
+.middle{
+	padding-top:150px;
+	
+}	
+.gap{
+	padding-top:400px;
+	background:none;
+	overflow:hidden;
+}				 
+#asik{
+	margin-top:200px;
+}				 
+.my{
+	margin-left:380px;
+	font-weight:bold;
+	font-size:40px;
+	
+}				 
+.fov{
+	margin-left:280px;
+	font-weight:bold;
+	color:#0a95f7;
+	text-shadow:1px 1px 1px black;
+	animation-name:jahangir;
+	animation-duration:5s;
+	animation-iteration-count:infinite;
+	animation-direction:alternate;
+	
+}	
+@keyframes jahangir{
+	0%{color:orange}
+	25%{color:#0a95f7}
+	50%{color:olive}
+	75%{color:yellow}
+	100%{color:pink}
+}
+
+			 
+.yea{
+	color:orange;
+	text-shadow:1px 1px 1px black;	
+}				 
+.as{
+	background:none;
+}				 
+				 
+				 
+				 
+				 
+				 
+				 
